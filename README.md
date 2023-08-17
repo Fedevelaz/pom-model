@@ -10,5 +10,5 @@ para evaluar efectos y para estudiar los procesos y fenómenos que afectan la z
 Los archivos pom2k.zip y mprogs2k.zip sirven como una primera versión para ejecutar el modelo POM y entender su funcionamiento
 para después aprender a configurarlos y hacer otro tipo de simulaciones particulares.
 
-Las intrucciones para descargar, compilar y ejecutar el modelo se pueden leer en el archivo Manual_POMver01.pdf
+Las instrucciones para descargar, compilar y ejecutar el modelo se pueden leer en el archivo Manual_POMver01.pdf
 que incluye también una sección sobre las rutinas de visualización de los datos de salida del modelo.
